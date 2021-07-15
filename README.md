@@ -16,7 +16,7 @@ Available modes at this moment are:
 * Individual motor jogging 
 * freehand teach 
 * move from point to point 
-* 
+
 Each of these modes of movement can be recorded and replayed!
 
 <img src="https://user-images.githubusercontent.com/30388414/125832896-2a89a1bf-fb66-4173-98a5-139b419b0507.png" width="1200"> 
