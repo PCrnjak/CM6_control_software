@@ -45,12 +45,6 @@ Each of these modes of movement can be recorded and replayed!
 <img src="https://user-images.githubusercontent.com/30388414/125832896-2a89a1bf-fb66-4173-98a5-139b419b0507.png" width="1200"> 
 <img src="https://user-images.githubusercontent.com/30388414/125832902-b11a0970-e8ef-4438-8df5-100ae0ac9608.png" width="1200"> 
 
-Dependancy:
-
-
-How to install:
-
-
 
 # Support the project
 
