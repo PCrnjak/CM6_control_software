@@ -6,7 +6,7 @@ Tested on Ubuntu 18.04.5 LTS running on virtual machine
 
 Running Python 3.6.9 (default, Jan 26 2021, 15:33:00)
 
-Robotic toolbox version - Downloaded 9.3.2021 - Realease 6 v0.9.1  https://github.com/petercorke/robotics-toolbox-python
+Robotic toolbox version - Downloaded 9.3.2021 - Realease 6 v0.9.1 [Toolbox](https://github.com/petercorke/robotics-toolbox-python)
 
 For additional python packages check /info_folder/versions_info
 
