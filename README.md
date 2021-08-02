@@ -14,14 +14,15 @@ For additional python packages check /info_folder/versions_info
 
 After installation of Robotic toolbox you will need to add:
 
-__init__.py and CM6.py to installation folder of robotic toolbox library: 
+__init__.py and CM6.py from robotic_toolbox_CM6_models folder to installation folder of robotic toolbox library: 
 
 ...robotic-toolbox-python/robotictoolbox/models/DH
 
-
+* After everything is installed when you run Multi_proc_main.py you should get a screen as shown on first image. If you get error for this step: in get_send_data.py file comment s.open() part of code.
+* To run this code in tandem with your robot you will need to modify get_send_data.py to your COM port. And you will need to be running mainboard code on your MCU.
 
 # CM6_control_software
-CM6_control_software
+
 CM6_control_software allows "easy" programming of CM6 robot. GUI software was written in python and heavily relies on Peter Corke's robotic toolbox for python! It was tested on Linux virtual machine, laptop running Linux, and raspberry pi 4!
 
 The software offers real-time monitoring of robots:
