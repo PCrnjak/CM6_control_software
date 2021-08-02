@@ -20,6 +20,9 @@ __init__.py and CM6.py from robotic_toolbox_CM6_models folder to installation fo
 
 * After everything is installed when you run Multi_proc_main.py you should get a screen as shown on first image. If you get error for this step: in get_send_data.py file comment s.open() part of code.
 * To run this code in tandem with your robot you will need to modify get_send_data.py to your COM port. And you will need to be running mainboard code on your MCU.
+* Mainboard code is configured for teensy 4.1.
+* Connection diagram and more info can be found here: - [Main CM6 project page](https://github.com/PCrnjak/CM6_COBOT_ROBOT)
+
 
 # CM6_control_software
 
