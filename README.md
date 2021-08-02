@@ -1,5 +1,22 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+# Dependancy:
+
+Tested on Ubuntu 18.04.5 LTS running on virtual machine
+
+Running Python 3.6.9 (default, Jan 26 2021, 15:33:00)
+
+Robotic toolbox version - Downloaded 9.3.2021 - Realease 6 v0.9.1  https://github.com/petercorke/robotics-toolbox-python
+
+For additional python packages check /info_folder/versions_info
+
+# Installation steps
+
+After installation of Robotic toolbox you will need to add:
+__init__.py and CM6.py to installation folder of robotic toolbox library: 
+...robotic-toolbox-python/robotictoolbox/models/DH
+
+
 
 # CM6_control_software
 CM6_control_software
