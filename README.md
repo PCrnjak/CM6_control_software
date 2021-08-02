@@ -13,7 +13,9 @@ For additional python packages check /info_folder/versions_info
 # Installation steps
 
 After installation of Robotic toolbox you will need to add:
+
 __init__.py and CM6.py to installation folder of robotic toolbox library: 
+
 ...robotic-toolbox-python/robotictoolbox/models/DH
 
 
