@@ -1,5 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+Join discord community: https://discord.com/invite/prjUvjmGpZ
 # Dependancy:
 
 Tested on Ubuntu 18.04.5 LTS running on virtual machine
